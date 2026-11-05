@@ -15,6 +15,9 @@ def media(numeros):
     for n in numeros:
         suma+=n
     return suma/len(numeros)
+#Calcular la media con la función lambda
+media_avg=lambda numeros:sum(numeros)/len(numeros)
+
 def convertir_a_fecha(texto):
     return dt.datetime.strptime(texto,"%d/%m/%Y")
 def curso_antes():
