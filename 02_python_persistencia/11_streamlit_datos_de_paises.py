@@ -1,5 +1,4 @@
 #Crear con streamlit una tabla con datos de paises alojados en un fichero countries.json
-
 import streamlit as st,json
 def paises_continente(continente):
     with open("countries.json","r") as f:

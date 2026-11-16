@@ -1,0 +1,152 @@
+[
+    {
+        "idproducto": 1,
+        "nombre_producto": "Teclado Mecánico RGB Switch Red",
+        "precio": "59.99 €"
+    },
+    {
+        "idproducto": 2,
+        "nombre_producto": "Teclado Inalámbrico Extraplano",
+        "precio": "29.95 €"
+    },
+    {
+        "idproducto": 3,
+        "nombre_producto": "Teclado Gaming TKL Silent",
+        "precio": "45.00 €"
+    },
+    {
+        "idproducto": 4,
+        "nombre_producto": "Teclado Ergonómico Wave",
+        "precio": "64.50 €"
+    },
+    {
+        "idproducto": 5,
+        "nombre_producto": "Teclado Membrana Retroiluminado",
+        "precio": "19.99 €"
+    },
+    {
+        "idproducto": 6,
+        "nombre_producto": "Ratón Gaming Óptico 16000 DPI",
+        "precio": "34.90 €"
+    },
+    {
+        "idproducto": 7,
+        "nombre_producto": "Ratón Inalámbrico Silencioso",
+        "precio": "18.50 €"
+    },
+    {
+        "idproducto": 8,
+        "nombre_producto": "Ratón Ergonómico Vertical",
+        "precio": "27.99 €"
+    },
+    {
+        "idproducto": 9,
+        "nombre_producto": "Ratón Ultraligero Honeycomb",
+        "precio": "42.00 €"
+    },
+    {
+        "idproducto": 10,
+        "nombre_producto": "Ratón Bluetooth Multidispositivo",
+        "precio": "24.99 €"
+    },
+    {
+        "idproducto": 11,
+        "nombre_producto": "PC Gaming Intel i7 / 32GB RAM / RTX 4070",
+        "precio": "1499.00 €"
+    },
+    {
+        "idproducto": 12,
+        "nombre_producto": "PC Sobremesa Oficina AMD Ryzen 5 / 16GB",
+        "precio": "549.99 €"
+    },
+    {
+        "idproducto": 13,
+        "nombre_producto": "Mini PC Intel N100 / 8GB / 256GB SSD",
+        "precio": "199.00 €"
+    },
+    {
+        "idproducto": 14,
+        "nombre_producto": "Portátil 15.6 FHD Ryzen 7 / 16GB / 512GB",
+        "precio": "699.00 €"
+    },
+    {
+        "idproducto": 15,
+        "nombre_producto": "Portátil Gaming 16 Intel i5 / RTX 4060",
+        "precio": "989.50 €"
+    },
+    {
+        "idproducto": 16,
+        "nombre_producto": "Disco Duro SSD NVMe M.2 1TB PCIe 4.0",
+        "precio": "79.90 €"
+    },
+    {
+        "idproducto": 17,
+        "nombre_producto": "Disco Duro SSD NVMe M.2 2TB",
+        "precio": "135.00 €"
+    },
+    {
+        "idproducto": 18,
+        "nombre_producto": "SSD Externo Portátil 1TB USB 3.2",
+        "precio": "89.99 €"
+    },
+    {
+        "idproducto": 19,
+        "nombre_producto": "Disco Duro Externo 2.5 4TB HDD",
+        "precio": "104.50 €"
+    },
+    {
+        "idproducto": 20,
+        "nombre_producto": "Disco Duro Interno 3.5 8TB NAS",
+        "precio": "219.00 €"
+    },
+    {
+        "idproducto": 21,
+        "nombre_producto": "Monitor Gaming 27 IPS 165Hz QHD",
+        "precio": "229.99 €"
+    },
+    {
+        "idproducto": 22,
+        "nombre_producto": "Monitor Ultrawide 34 Curvo 144Hz",
+        "precio": "379.00 €"
+    },
+    {
+        "idproducto": 23,
+        "nombre_producto": "Auriculares Gaming 7.1 con Micrófono",
+        "precio": "49.90 €"
+    },
+    {
+        "idproducto": 24,
+        "nombre_producto": "Alfombrilla Gaming XXL RGB 90x40cm",
+        "precio": "15.99 €"
+    },
+    {
+        "idproducto": 25,
+        "nombre_producto": "Webcam Full HD 1080p con Micrófono",
+        "precio": "32.50 €"
+    },
+    {
+        "idproducto": 26,
+        "nombre_producto": "Memoria RAM DDR5 32GB (2x16GB) 6000MHz",
+        "precio": "119.90 €"
+    },
+    {
+        "idproducto": 27,
+        "nombre_producto": "Fuente de Alimentación 750W 80 Plus Gold",
+        "precio": "89.90 €"
+    },
+    {
+        "idproducto": 28,
+        "nombre_producto": "Refrigeración Líquida AIO 240mm RGB",
+        "precio": "74.99 €"
+    },
+    {
+        "idproducto": 29,
+        "nombre_producto": "Tarjeta Gráfica RTX 4060 Ti 8GB",
+        "precio": "399.00 €"
+    },
+    {
+        "idproducto": 30,
+        "nombre_producto": "Hub USB-C 7 en 1 HDMI / SD / Power Delivery",
+        "precio": "22.99 €"
+    }
+]
